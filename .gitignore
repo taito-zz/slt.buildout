@@ -1,0 +1,11 @@
+.coverage
+.installed.cfg
+.mr.developer.cfg
+bin
+buildout.cfg
+buildout.d/accounts
+develop-eggs
+htmlcov
+parts
+src
+var
